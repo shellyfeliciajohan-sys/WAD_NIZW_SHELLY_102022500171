@@ -15,6 +15,7 @@
     <div>
         <a href="/buku">Katalog</a>
         <a href="/buku/detail">Detail Buku</a> 
+        <a href="/logout">Logout</a>
     </div>
 </div>
 
